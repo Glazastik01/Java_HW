@@ -1,4 +1,5 @@
 package java_HW2;
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.logging.*;

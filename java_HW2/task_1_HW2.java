@@ -1,5 +1,6 @@
 package java_HW2;
 
+
 public class task_1_HW2 {
     public static String shuffleString(String s, int[] index) {
         char[] res = new char[s.length()];

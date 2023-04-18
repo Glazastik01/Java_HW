@@ -1,4 +1,5 @@
 package java_HW2;
+
 import java.util.Scanner;
 
 public class task_2_HW2 {
